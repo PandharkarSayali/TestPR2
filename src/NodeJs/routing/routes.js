@@ -91,7 +91,7 @@ router.delete('/:id',(req,res)=>
             } 
             else{
                     console.log("Error");
-                    console.log("Error");
+                    
                 }
         })
 
