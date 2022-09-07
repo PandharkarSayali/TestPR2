@@ -77,6 +77,8 @@ router.post('/', (req,res)=>{
          res.json({success:true});
          //res.json(jsondata);
             console.log(req.body);
+            
+            console.log(req.body);
         }
     })
 
